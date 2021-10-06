@@ -1,5 +1,6 @@
 import java.util.Scanner;
-public class Main {
+public class FizzBuzzExample1
+{
     public static void main(String args[]) {
         //constructor of the scanner class  
         Scanner sc = new Scanner(System.in);
